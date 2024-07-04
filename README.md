@@ -1,4 +1,5 @@
-# typing_speed
-Typing speed website
+# Typing Speed website
 
-## Django ReactJS 
+<p>Know your typing in WPM(words per minute).</p>
+
+#### Django ReactJS 
